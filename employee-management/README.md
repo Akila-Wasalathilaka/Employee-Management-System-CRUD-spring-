@@ -43,7 +43,7 @@ The system provides a user-friendly interface with Thymeleaf templates to manage
 i. Clone the Git repository:
 
 ```
-
+https://github.com/Akila-Wasalathilaka/Employee-Management-System-CRUD-spring-.git
 ```
 
 ii. Open the project folder.
